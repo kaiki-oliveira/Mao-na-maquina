@@ -10,13 +10,23 @@ header{
     height: 172px;
     text-align: center;
 }
-header ul{
-    width: 300px;
+header h1{
+    color: white;
+}
+nav{
+    background-color: #666666;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+nav ul{
+    
     display: flex;
     justify-content: space-evenly;
     list-style: none;
 }
 
-header a{
+nav a{
     text-decoration: none;
+    color: white;
 }

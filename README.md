@@ -10,7 +10,7 @@
 
 <div align="center"><img src="https://github.com/user-attachments/assets/9b0296ae-aae3-4b53-acc9-9c1379167958" width="800px"> </div>
 
-<div align="center"> <a href="https://kaiki-oliveira.github.io/Mao-na-maquina/" "target(_blanck)">Clique aqui para acessar a pagina Mão na maquina.</a></div>
+<div align="center"> <a href="https://kaiki-oliveira.github.io/Mao-na-maquina/" target="_blank">Clique aqui para acessar a pagina Mão na maquina.</a></div>
 
 <hr>
 

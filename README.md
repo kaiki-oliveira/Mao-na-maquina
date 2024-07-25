@@ -8,7 +8,7 @@
 
 <h1> 💻Demonstração </h1>
 
-<div align="center"><img src="https://github.com/kaiki-oliveira/Mao-na-maquina/issues/1#issue-2416928447" width="800px"> </div>
+<div align="center"><img src="https://github.com/user-attachments/assets/9b0296ae-aae3-4b53-acc9-9c1379167958" width="800px"> </div>
 
 <div align="center"> <a href="https://kaiki-oliveira.github.io/Mao-na-maquina/">Clique aqui para acessar a pagina Mão na maquina.</a></div>
 

@@ -8,9 +8,9 @@
 
 <h1> 💻Demonstração </h1>
 
-<div align="center"><img src="https://github.com/kaiki-oliveira/Mao-na-maquina/issues/1#issue-2416928447.png" width="800px"> </div>
+<div align="center"><img src="https://github.com/user-attachments/assets/9b0296ae-aae3-4b53-acc9-9c1379167958" width="800px"> </div>
 
-<div align="center"> <a href="https://www.figma.com/proto/Y1TbSg9iILtKCUevuCXQ5t/M%C3%A3o-na-maquina?type=design&node-id=1-2&t=39yHw3LyvsBU3Pfd-0&scaling=scale-down-width&page-id=0%3A1">Clique aqui para acessar a pagina Mão na maquina.</a></div>
+<div align="center"> <a href="https://kaiki-oliveira.github.io/Mao-na-maquina/">Clique aqui para acessar a pagina Mão na maquina.</a></div>
 
 <hr>
 
